@@ -1,0 +1,5 @@
+Pasos para abrir la carpeta:
+1.	Crear carpeta
+2.	Seleccionar ruta
+3.	Escribir “cmd”
+4.	Escribir "code ."
